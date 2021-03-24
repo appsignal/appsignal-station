@@ -1,7 +1,7 @@
 import React from "react";
 
-const HelloWorld = () => {
-  return <p>Hello World</p>;
+const HelloWorld = ({ station }) => {
+  return <p>Hello World {station.name}</p>;
 };
 
 export default HelloWorld;
