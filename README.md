@@ -40,7 +40,7 @@ In this asignment, you'll use an open GraphQL API to build a small project in Ne
 
 ## Handing in the assignment
 - Create a cloned version of the repository
-- Invite @wesoudshoorn @jvbaarsen @matsimitsu as collaborators
+- Invite @wesoudshoorn @jvanbaarsen @matsimitsu as collaborators
 - Email Wes Oudshoorn when the assignment is done
 - Plan a follow-up call with the link in your coding-interview invite email
 ## Getting Started
