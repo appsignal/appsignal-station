@@ -51,6 +51,8 @@ Clone the repository and install all dependencies:
 yarn install
 ```
 
+Replace the API token in `apollo-client.js` with the token you received from Wes by email
+
 Run the development server:
 
 ```bash
